@@ -203,9 +203,16 @@ export default async function IndexPage({
             &quot;Verify DNS Record&quot;.
           </p>
           <p className="mt-6 max-w-lg text-sm">
-            To fund this project{" "}
+            To fund pharmsky.app{" "}
             <a href="https://ko-fi.com/pharmrj" className="underline">
-              please support me on Ko-fi!
+              please support me on Ko-fi! 
+            </a>
+            .
+          </p>
+          <p className="mt-6 max-w-lg text-sm">
+            Forked from{" "}
+            <a href="https://github.com/mozzius/community-handles" className="underline">
+              mozzius! 
             </a>
             .
           </p>
