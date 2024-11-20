@@ -212,7 +212,7 @@ export default async function IndexPage({
           <p className="mt-6 max-w-lg text-sm">
             Forked from{" "}
             <a href="https://github.com/mozzius/community-handles" className="underline">
-              mozzius! 
+              mozzius 
             </a>
             .
           </p>
