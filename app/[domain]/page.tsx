@@ -203,9 +203,9 @@ export default async function IndexPage({
             &quot;Verify DNS Record&quot;.
           </p>
           <p className="mt-6 max-w-lg text-sm">
-            If you like this project, consider{" "}
-            <a href="https://github.com/sponsors/mozzius" className="underline">
-              sponsoring my work
+            To fund this project{" "}
+            <a href="https://ko-fi.com/pharmrj" className="underline">
+              please support me on Ko-fi!
             </a>
             .
           </p>
