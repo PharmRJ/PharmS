@@ -6,15 +6,15 @@ Go to https://pharmsky.app to join the pharmsky.app community.
 
 ## What is a community handle?
 
-A domain that other people can have their own subdomain on. For example, [@mozzius.swifties.social](https://mozzius.swifties.social) is a community handle that is part of the https://swifties.social community.
+A domain that other people can have their own subdomain on. For example, [@mozzius.swifties.social](https://mozzius.swifties.social) is a community handle that is part of the https://pharmsky.app community.
 
 ## How do I get a community handle?
 
-This tool lets members of your community easily get a community handle. Simply go to the domain, such as https://swifties.social, and follow the instructions.
+This tool lets members of your community easily get a community handle. Simply go to the domain, such as https://pharmsky.app, and follow the instructions.
 
 ## How do I host my own community handle tool?
 
-If you want to set up your own community handle for your own community, you can use this tool. It's free and open source, and you can host it yourself. If it's a bit too technical for you, you can [use our hosted version](https://swifties.social/get-your-own).
+If you want to set up your own community handle for your own community, you can use this tool. It's free and open source, and you can host it yourself.
 
 Otherwise, follow these instructions for the easiest way to set up your own community handle tool.
 
