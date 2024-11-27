@@ -2,7 +2,7 @@
 
 Get your own community handle for Bluesky!
 
-Go to https://swifties.social to join the swifties.social community.
+Go to https://pharmsky.app to join the pharmsky.app community.
 
 ## What is a community handle?
 
