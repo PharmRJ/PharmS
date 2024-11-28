@@ -197,10 +197,10 @@ export default async function IndexPage({
           last
         >
           <p className="max-w-lg text-sm">
-            Go to Settings {">"} Advanced {">"} Change my handle. Select &quot;I
+            Go to Settings {">"} Account {">"} @Handle. Select &quot;I
             have my own domain&quot; and enter{" "}
-            {newHandle ? `"${newHandle}"` : "your new handle"}. Finally, tap
-            &quot;Verify DNS Record&quot;.
+            {newHandle ? `"${newHandle}"` : "your new handle"}. Click
+            &quot;Verify DNS Record&quot;, then finally click &quot;Update to name.pharmsky.app&quot;.
           </p>
           <p className="mt-6 max-w-lg text-sm">
             To fund pharmsky.app{" "}
